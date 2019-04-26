@@ -1,0 +1,4 @@
+C:\Data\t$m$p$$$\Sinks.max
+C:\Data\t$m$p$$$\MAXFILES.TXT
+C:\Program Files\Autodesk\3ds Max 9
+C:\Program Files\Autodesk\3ds Max 9\maps\HDRs\Loft_Lights_Sm_Blurry.hdr
